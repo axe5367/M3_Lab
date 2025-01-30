@@ -1,5 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using System;
+﻿using System;
 
 public abstract class XYZ_P
 {
